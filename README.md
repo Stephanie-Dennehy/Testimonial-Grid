@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Stephanie-Dennehy/Testimonial-Grid)
+- Live Site URL: (https://stephanie-dennehy.github.io/Testimonial-Grid/)
 
 ## My process
 
@@ -38,10 +38,10 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Stephanie-Dennehy](https://www.frontendmentor.io/profile/Stephanie-Dennehy)
+- Twitter - [@Steph_Dennehy](https://www.twitter.com/steph_dennehy)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Thanks to Traversy Media (https://traversymedia.com) for the Tailwind CSS course and walkthrough of this project. It was very beneficial in learning Tailwind and seeing this project put together. 
 
